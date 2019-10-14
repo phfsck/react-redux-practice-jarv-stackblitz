@@ -1,3 +1,3 @@
-# react-redux-app-zcy7ug
+# react-redux-practice-jarv-stackblitz
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-redux-app-zcy7ug)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-redux-practice-jarv-stackblitz)
